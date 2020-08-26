@@ -1,0 +1,20 @@
+{
+  "name": "simplepack",
+  "version": "1.0.0",
+  "description": "# 读取文件",
+  "main": "simple.conf.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@babel/core": "^7.11.4",
+    "@babel/parser": "^7.11.4",
+    "@babel/preset-env": "^7.11.0",
+    "@babel/traverse": "^7.11.0"
+  }
+}
